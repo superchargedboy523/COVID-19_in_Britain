@@ -1,1 +1,1 @@
-# COVID-19_in_Britain
+# COVID-19 in Britain
